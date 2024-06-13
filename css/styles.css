@@ -139,7 +139,7 @@ footer{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
-
+		width: calc(49% - 1%);
 		margin: 1%;
 	}
 
@@ -154,8 +154,6 @@ footer{
 		align-items: center;
 		padding: 0.5rem;
 		max-width: 370px;
-		width: calc(49% - 1%);
-		box-sizing: border-box;
 	}
 
 	aside{
