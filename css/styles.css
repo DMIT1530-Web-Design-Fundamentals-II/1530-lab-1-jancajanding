@@ -61,7 +61,7 @@ header{
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
-	padding: 2rem;
+	padding: 2rem 2rem 0;
 }
 
 .flex-container section{
@@ -91,12 +91,12 @@ section{
 
 aside{
 	color: #fff;
-	padding: 2rem;
+	padding: 0 2rem 2rem;
 
 }
 
 .aside-container{
-	padding: 1rem 3rem 3rem;
+	padding: 2rem 1rem 1rem;
 	background-color: #2b2e37;
 	border-radius: 5px;
 }
