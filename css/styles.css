@@ -54,6 +54,7 @@ header{
     flex-wrap: wrap;
     gap: 1rem;
     flex: 1;
+	padding: 2rem;
 }
 
 section{
