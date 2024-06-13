@@ -31,7 +31,7 @@ p {
 }
 
 header{
-	bottom
+	margin-bottom: 1.5rem;
 }
 /* Mobile View */
 
