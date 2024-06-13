@@ -31,10 +31,9 @@ p {
 }
 
 header{
-	margin-bottom: 1.5rem;
 	background-color: #c54b3c;
 	color: #fff;
-	font-family: 'Assistant', sans-serif;
+	margin-bottom: 1.5rem;
 }
 /* Mobile View */
 
