@@ -40,7 +40,7 @@ On Moodle, in your Lab 01 instructions, you have been provided with a series of 
 
 7.	Starting with the styles needed for the smallest view, add the necessary CSS.
 
-8.	The font sizing should render as follows: h1 heading 40px, h2 heading 30px, h3 heading 24px, and the body paragraph text 16px. 
+8.	The font sizing should render as follows: h1 heading 40px, h2 heading 30px, h3 heading 24px, and the body paragraph text 16px. DONE
 
 **Note**: Do not use pixel values in your code. Your fonts should be sized in _relative units_. The only exceptions are for things that do not need to change their size depending upon the user's device and/or settings (ex. a rounded corner on a container).
 
