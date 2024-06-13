@@ -26,6 +26,8 @@ h2 {
 	font-weight: 300;
 	text-transform: uppercase;
 	color: #fff;
+	text-align: center;
+	padding: 2rem;
 }
 
 h3 {
@@ -53,8 +55,8 @@ header{
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
-    flex: 1;
-	padding: 2rem;
+	padding: 1rem;
+
 }
 
 section{
