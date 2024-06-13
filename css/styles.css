@@ -73,6 +73,15 @@ section{
 		justify-content: center;
 	}
 
+	.flex-container{
+		display: flex;
+	}
+	
+	aside{
+		display: flex;
+	}
+
+
 }
 
 /* Medium View */
