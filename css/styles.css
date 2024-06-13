@@ -38,6 +38,9 @@ header{
 	color: #fff;
 	margin-bottom: 1.5rem;
 	padding: 1rem;
+    display: flex;
+	align-items: center;
+    text-align: left;
 	justify-content: center;
 }
 
