@@ -78,6 +78,9 @@ header{
     min-height: 7.5rem;
 }
 
+.flex-container p{
+	margin-top: 1rem;
+}
 .flex-container div{
 	padding: 1rem;
 }
