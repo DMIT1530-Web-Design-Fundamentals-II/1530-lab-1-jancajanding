@@ -47,7 +47,12 @@ header{
 }
 /* Mobile View */
 
+@media screen and (min-width: 45rem) {
+	header{
+		padding: 3rem;
+	}
 
+}
 
 /* Medium View */
 
