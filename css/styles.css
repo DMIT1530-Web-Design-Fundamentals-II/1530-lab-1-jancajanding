@@ -133,10 +133,12 @@ footer{
 
 	.wide-flex{
 		display: flex;
+		justify-content: center;
 	}
 	.flex-container{
 		display: flex;
 		flex-wrap: wrap;
+		justify-content: s;
 		width: calc(49% - 1%);
 		margin: 1%;
 	}
