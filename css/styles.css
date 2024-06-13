@@ -78,6 +78,10 @@ header{
     min-height: 7.5rem;
 }
 
+.flex-container div{
+	padding: 1rem;
+}
+
 section{
 	background-color: #fff;
 }
