@@ -90,12 +90,16 @@ section{
 }
 
 aside{
-	background-color: #2b2e37;
 	color: #fff;
-	padding: 1rem;
+	padding: 2rem;
+
 }
 
-
+.aside-container{
+	padding: 3rem;
+	background-color: #2b2e37;
+	border-radius: 5px;
+}
 
 footer{
 	background-color: #2b2e37;
