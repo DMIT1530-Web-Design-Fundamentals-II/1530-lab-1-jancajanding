@@ -38,7 +38,7 @@ header{
 	color: #fff;
 	margin-bottom: 1.5rem;
 	padding: 1rem;
-	text-align: center;
+	justify-content: center;
 }
 
 .flex-container {
