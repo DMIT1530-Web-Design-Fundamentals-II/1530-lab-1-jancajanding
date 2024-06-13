@@ -51,12 +51,25 @@ header{
 	margin-bottom: 1.5rem;
 }
 
+.wide-flex{
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+
 .flex-container {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
 	padding: 1rem;
+}
 
+.flex-container section{
+	display: flex;
+	align-items: center;
+	border: 1px solid #000;
+	border-radius: 5px;
+	padding: 1rem;
 }
 
 section{
@@ -76,7 +89,7 @@ section{
 	.flex-container{
 		display: flex;
 	}
-	
+
 	aside{
 		display: flex;
 	}
